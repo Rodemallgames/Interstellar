@@ -1,5 +1,5 @@
+
+# Hi Robots!
+
 User-agent: *
 Disallow: /
-
-User-agent: Mediapartners-Google
-Allow: /
